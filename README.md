@@ -1,6 +1,6 @@
 # image-test
 
-This repository contains a reproduction of UB when encoding an AVIF image using the `image` crate.
+This repository contains a reproduction of UB when encoding an AVIF image using the `image` crate. See https://github.com/image-rs/image/issues/2108 for more details.
 
 ## License
 
